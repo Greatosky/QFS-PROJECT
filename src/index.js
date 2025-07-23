@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Hom from './component/Home.js';
+import Hom from './/component/Home.js';
 import Login from './component/login.js';
 import Sign from './component/sign.js';
 
