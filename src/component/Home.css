@@ -121,14 +121,14 @@
     background:white;
     margin-bottom: 1rem;
 }
-.home-content-use{
+.home-content-us{
     background:white;
     display: flex;
     align-items: center;
     padding:3rem 3rem;
     gap: 2rem;
 }
-.home-content-use h2{
+.home-content-us h2{
     text-align: justify;
     color: #812fdf;
     line-height: 4rem;
@@ -137,7 +137,7 @@
     background:white;
 
 }
-.home-content-use p{
+.home-content-us p{
     text-align: left;
     color: rgb(88, 88, 88);
     font-size:.8rem;

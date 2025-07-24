@@ -30,7 +30,7 @@ function Hom() {
                 </div>
             </div >
                 <div className="home-header">
-                    <div className="home-content-use">
+                    <div className="home-content-us">
                         <div className="contenar fir">
                             <div>
                                 <img src={require('../one.png') } alt="qfs" width="40" height="40" />
